@@ -1,0 +1,5 @@
+crete database login;
+
+use login;
+
+create table register (name VARCHAR(30), email VARCHAR(30), user_id VARCHAR(15), ppass VARCHAR(15));
